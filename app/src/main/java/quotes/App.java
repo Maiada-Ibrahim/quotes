@@ -3,12 +3,31 @@
  */
 package quotes;
 
-public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
+import com.google.gson.Gson;
 
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.Arrays;
+
+public class App {
+
+
+    public static void main(String[] args) throws IOException {
+        Gson gson=new Gson();
+        Reader reader = Files.newBufferedReader(Paths.get("app/src/main/resources/data.json"));
+        BufferedReader readFromArray =new BufferedReader(reader);
+
+        Quotes[] convertArray = gson.fromJson(readFromArray, Quotes[].class);
+        int radnomQuote = (int)(Math.random()*(convertArray.length-1));
+        System.out.println("Name of Author: "+convertArray[radnomQuote].getAuthor());
+        System.out.println("The Quote : " + convertArray[radnomQuote].getText());
+        System.out.println("Quote number : " + radnomQuote);
+
+
+
+
+
+
     }
 }
