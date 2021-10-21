@@ -1,0 +1,41 @@
+ApiQuotes{quoteAuthor='Buddha', quoteText='Your work is to discover your work and then with all your heart to give yourself to it.'}
+ApiQuotes{quoteAuthor='Buddha', quoteText='In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.'}
+ApiQuotes{quoteAuthor='Manuel Puig', quoteText='I allow my intuition to lead my path. '}
+ApiQuotes{quoteAuthor=' Frank Crane', quoteText='You may be deceived if you trust too much, but you will live in torment unless you trust enough. '}
+ApiQuotes{quoteAuthor='Chuck Norris', quoteText='A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.  '}
+ApiQuotes{quoteAuthor='George Orwell', quoteText=' Myths which are believed in tend to become true. '}
+ApiQuotes{quoteAuthor='Confucius ', quoteText='I hear and I forget. I see and I remember. I do and I understand.  '}
+ApiQuotes{quoteAuthor='Wayne Dyer', quoteText='Everything is perfect in the universe — even your desire to improve it.  '}
+ApiQuotes{quoteAuthor='Henri-Frederic Amiel', quoteText='So long as a person is capable of self-renewal they are a living being.  '}
+ApiQuotes{quoteAuthor='Albert Einstein ', quoteText='I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.  '}
+ApiQuotes{quoteAuthor='Leonardo da Vinci ', quoteText='All our knowledge has its origins in our perceptions.  '}
+ApiQuotes{quoteAuthor='Etty Hillesum', quoteText='Sometimes the most important thing in a whole day is the rest we take between two deep breaths.'}
+ApiQuotes{quoteAuthor='Dalai Lama', quoteText='By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.'}
+ApiQuotes{quoteAuthor='Lao Tzu ', quoteText='Nothing is softer or more flexible than water, yet nothing can resist it.  '}
+ApiQuotes{quoteAuthor='Haynes Bayly', quoteText='Absence makes the heart grow fonder.'}
+ApiQuotes{quoteAuthor='Bruce Lee', quoteText='If you love life, don't waste time, for time is what life is made up of.'}
+ApiQuotes{quoteAuthor='Alfred Sheinwold', quoteText='Learn all you can from the mistakes of others. You won't have time to make them all yourself.'}
+ApiQuotes{quoteAuthor='Anne Lamott', quoteText='Joy is the best makeup. '}
+ApiQuotes{quoteAuthor='Aristotle ', quoteText='Change in all things is sweet.  '}
+ApiQuotes{quoteAuthor='A. Powell Davies', quoteText='Life is just a chance to grow a soul. '}
+ApiQuotes{quoteAuthor='Cullen Hightower', quoteText='When performance exceeds ambition, the overlap is called success. '}
+ApiQuotes{quoteAuthor='Buddha', quoteText='If you light a lamp for somebody, it will also brighten your path.  '}
+ApiQuotes{quoteAuthor='Rudolf Arnheim', quoteText='All perceiving is also thinking, all reasoning is also intuition, all observation is also invention. '}
+ApiQuotes{quoteAuthor='Immanuel Kant', quoteText='Science is organized knowledge. Wisdom is organized life. '}
+ApiQuotes{quoteAuthor='Abraham Lincoln', quoteText='Most folks are about as happy as they make up their minds to be. '}
+ApiQuotes{quoteAuthor='Thomas Edison', quoteText='Genius is one percent inspiration and ninety-nine percent perspiration. '}
+ApiQuotes{quoteAuthor='Robert Anthony ', quoteText='Forget about all the reasons why something may not work. You only need to find one good reason why it will. '}
+ApiQuotes{quoteAuthor='Benjamin Franklin', quoteText='One today is worth two tomorrows.'}
+ApiQuotes{quoteAuthor='Chuck Norris', quoteText='A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.'}
+ApiQuotes{quoteAuthor='Wolfgang Amadeus Mozart', quoteText='Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. '}
+ApiQuotes{quoteAuthor='William Hazlitt', quoteText='Just as much as we see in others we have in ourselves.'}
+ApiQuotes{quoteAuthor='Johann Wolfgang von Goethe', quoteText='Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him. '}
+ApiQuotes{quoteAuthor='', quoteText='Each time we face a fear, we gain strength, courage, and confidence in the doing.'}
+ApiQuotes{quoteAuthor='Oliver Holmes', quoteText='What lies behind us and what lies before us are small matters compared to what lies within us. '}
+ApiQuotes{quoteAuthor='James Barrie', quoteText='We never understand how little we need in this world until we know the loss of it.'}
+ApiQuotes{quoteAuthor='Winston Churchill ', quoteText='I never worry about action, but only inaction.  '}
+ApiQuotes{quoteAuthor='Arthur Rubinstein ', quoteText='Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings. '}
+ApiQuotes{quoteAuthor='Vaclav Havel', quoteText='Work for something because it is good, not just because it stands a chance to succeed. '}
+ApiQuotes{quoteAuthor='Ralph Emerson', quoteText='In skating over thin ice our safety is in our speed. '}
+ApiQuotes{quoteAuthor='Thomas Dewar', quoteText='Minds are like parachutes. They only function when open.'}
+ApiQuotes{quoteAuthor='Oprah Winfrey', quoteText='I don't believe in failure. It is not failure if you enjoyed the process.'}
